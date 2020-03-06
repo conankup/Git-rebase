@@ -18,3 +18,4 @@ edit text in master
 edit text in master
 
 add new lie 20 for not conflict in branch master
+Jaruk Nattayakun for test not conflict in branch master
