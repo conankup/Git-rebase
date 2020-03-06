@@ -1,1 +1,3 @@
 this is text for test git flow
+
+add text for commit in master
