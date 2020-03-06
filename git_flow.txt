@@ -3,3 +3,5 @@ this is text for test git flow
 add text for commit in master
 
 add second line of text in master
+
+edit text in master
