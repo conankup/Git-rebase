@@ -16,3 +16,5 @@ add new line 13 in branch feature-1
 add new line 16 in branch feature-1
 edit text in master
 edit text in master
+
+add new lie 20 for not conflict in branch master
