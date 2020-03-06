@@ -7,3 +7,4 @@ add second line of text in master
 add text in branch feature-1
 
 add new line9 in branch feature-1
+edit text in master
